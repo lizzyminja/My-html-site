@@ -18,22 +18,22 @@
 </nav>
 
 <div class="main-content-wrapper"> <aside class="sidebar">
-        <img src="images/c65adcdff4fb1d23f03181ede351b1bc.jpg" alt="Profile Photo" class="profile-photo"> <div class="bio">
+        <img src="profile.jpg" alt="Profile Photo" class="profile-photo"> <div class="bio">
             <h3>About Us</h3>
             <p>Passionate coffee lovers dedicated to serving the finest brews in Arusha. Come and experience our cozy atmosphere!</p>
         </div>
     </aside>
 
     <div class="content"> <section class="hero">
-            <img src="images/507bb4352c6cb87ae99ecc83698c80c2.jpg" alt="Delicious Coffee" class="hero-image">
+            <img src="e31221b29d12e9780cdd7a4884f0a99d.jpg" alt="Delicious Coffee" class="hero-image">
         </section>
 
         <section class="menu" id="menu">
             <h2>Our Menu</h2>
-            <div class="menu-item"><strong>Espresso</strong> - 25000 Tsh</div>
-            <div class="menu-item"><strong>Cappuccino</strong> -30000 Tsh</div>
-            <div class="menu-item"><strong>Latte</strong> - 40000 Tsh</div>
-            <div class="menu-item"><strong>Mocha</strong> - 50000 Tsh</div>
+            <div class="menu-item"><strong>Espresso</strong> - $2.50</div>
+            <div class="menu-item"><strong>Cappuccino</strong> - $3.50</div>
+            <div class="menu-item"><strong>Latte</strong> - $4.00</div>
+            <div class="menu-item"><strong>Mocha</strong> - $4.50</div>
         </section>
 
         <section id="contact">
