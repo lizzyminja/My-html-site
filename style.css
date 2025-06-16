@@ -114,3 +114,21 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* Gallery specific styles */
+.image-grid {
+    display: flex; /* Use flexbox for horizontal arrangement */
+    flex-wrap: wrap; /* Allow images to wrap to the next line if needed */
+    gap: 15px; /* Space between images */
+    justify-content: center; /* Center the images horizontally */
+    padding: 20px;
+}
+
+.image-grid img {
+    width: 250px; /* Fixed width for consistency */
+    height: 200px; /* Fixed height for consistency */
+    object-fit: cover; /* Ensure images cover the area without distortion */
+    border-radius: 8px; /* Slightly rounded corners for images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: transform 0.3s ease; /* Smooth hover effect */
+}
